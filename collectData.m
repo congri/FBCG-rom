@@ -28,6 +28,7 @@ if saveSW
     save(filename, 'MCMCStepWidth', '-ascii', '-append')
 end
 
+
 %% Optimal params
 %W matrix
 saveW = true;
